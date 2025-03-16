@@ -9,7 +9,7 @@ cv:
       username: Jian-Zhang-Jeff
   sections:
     summary:
-      - I am passionate about technology and problem-solving, looking forward to be working in a team.
+      - Computer Science graduate who is passionate about problem solving, always eager to learn new technologies. 
     education:
       - institution: University of Adelaide
         area: Computer Science
@@ -39,7 +39,7 @@ cv:
         highlights:
           - cleared all doubts from the student with communication skills and linguistic knowledge
     projects:
-      - name: ahuxdbj 
+      - name: Final year project
         date:
         start_date: 2024-08
         end_date: 2024-11
@@ -55,7 +55,7 @@ cv:
         details: cultural intelligence and adaptability 
       - label: Piano and music theory
         details: multitasking and persistence
-      - label: badminton
+      - label: Badminton
         details: fast reaction and decision
     Languages:
       - number: Chinese (Native Speaker)
