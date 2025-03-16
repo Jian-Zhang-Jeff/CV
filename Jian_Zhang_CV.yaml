@@ -5,8 +5,6 @@ cv:
   phone: +61-0424570886
   website:
   social_networks:
-    - network: LinkedIn
-      username: john.doe
     - network: GitHub
       username: Jian-Zhang-Jeff
   sections:
