@@ -9,10 +9,15 @@ cv:
       username: Jian-Zhang-Jeff
   sections:
     summary:
-      - Computer Science graduate who is passionate about problem solving, always eager to learn new technologies. 
+      - Computer Science graduate who is passionate about problem solving, always eager to learn new technologies.
+    About me:
+      - label: residential status
+        details: Australian citizen 
+      - label: preferred name
+        details: Jeff
     education:
       - institution: University of Adelaide
-        area: Computer Science
+        area: Computer Science (AI major)
         degree: bechelor
         # date: 
         start_date: 2022-02
@@ -31,6 +36,7 @@ cv:
         # summary:
         highlights:
           - worked with Python, Swift, C# and Unity in related courses
+          - completed 2022 STEM Academy Year 12 Program
     experience:
       - company: University of Adelaide
         position: Chinese IA tutor
@@ -57,6 +63,7 @@ cv:
         details: multitasking and persistence
       - label: Badminton
         details: fast reaction and decision
+
     Languages:
       - number: Chinese (Native Speaker)
       - number: English, Japanese (fluent)
