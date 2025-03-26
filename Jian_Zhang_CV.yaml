@@ -9,39 +9,34 @@ cv:
       username: Jian-Zhang-Jeff
   sections:
     summary:
-      - Computer Science graduate who is passionate about problem solving, always eager to learn new technologies.
+      - Computer Science graduate who is passionate about problem-solving, always eager to learn new technologies.
     About me:
-      - label: residential status
+      - label: Residential status
         details: Australian citizen 
-      - label: preferred name
+      - label: Preferred name
         details: Jeff
     education:
       - institution: University of Adelaide
         area: Computer Science (AI major)
-        degree: bechelor
-        # date: 
+        degree: Bachelor
         start_date: 2022-02
         end_date: 2025-03
-        # location: Adelaide, South Australia
         summary:
         highlights:
-          - Worked on the audio compression project given by Maptek
+          - Collaborated on the audio compression project given by Maptek
+          - Mainly used Python and C++ throughout university study
       - institution: Thebarton Senior College
         area: Mathematics and coding 
         degree: SACE Year 11 and 12
-        # date:
-        # start_date: 2018-09
         end_date: 2021-12
-        # location: Istanbul, Türkiye
-        # summary:
         highlights:
-          - worked with Python, Swift, C# and Unity in related courses
-          - completed 2022 STEM Academy Year 12 Program
+          - Experience with Python, Swift, C# and Unity in related courses
+          - Completed 2022 STEM Academy Year 12 Program
     experience:
       - company: University of Adelaide
         position: Chinese IA tutor
         date: Spring 2023
-        summary: one on one tutor that helps with pernounciation and grammar 
+        summary: one on one tutor that helps with pronunciation and grammar 
         highlights:
           - cleared all doubts from the student with communication skills and linguistic knowledge
     projects:
@@ -53,8 +48,8 @@ cv:
         summary: audio compression algorithm with good compression rate and fidelity 
         highlights:
           - Worked in a team of 8 students, leader in rotation
-          - developed a machine learning based algorithm with other optimisations
-          - Won the first place on Maptek's leaderboard
+          - Developed a machine learning based algorithm with other optimisations
+          - Won the first place on Maptek's algorithm performance leaderboard
 
     Hobbies:
       - label: Language learning
